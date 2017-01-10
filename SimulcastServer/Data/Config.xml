@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<movies>
+  <movie name="bianposhigu" title ="边坡事故按钮1" vidopath ="Videos\VR2.mp4" coverpath ="CoverPicotures\边坡事故按钮1.png"></movie>
+  <movie name="bianposhigu" title ="承台钢筋滑落2" vidopath ="Videos\chengtaigangjin.mp4" coverpath ="CoverPicotures\承台钢筋滑落1.png"></movie>
+  <movie name="bianposhigu" title ="电线杆倒塌" vidopath ="Videos\chengtaigangjin.mp4" coverpath ="CoverPicotures\切换Cache.png"></movie>
+  <movie name="bianposhigu" title ="电线杆倒塌1" vidopath ="Videos\dianganzashang.mp4" coverpath ="CoverPicotures\电线杆倒塌1.png"></movie>
+  <movie name="bianposhigu" title ="电线杆倒塌2" vidopath ="Videos\dunzhudaota.mp4" coverpath ="CoverPicotures\电线杆倒塌1.png"></movie>
+  <movie name="bianposhigu" title ="电线杆倒塌3" vidopath ="Videos\fengzhongjiashoujia.mp4" coverpath ="CoverPicotures\电线杆倒塌1.png"></movie>
+  <movie name="bianposhigu" title ="电线杆倒塌1" vidopath ="Videos\gangjinhualuo.mp4" coverpath ="CoverPicotures\电线杆倒塌1.png"></movie>
+  <movie name="bianposhigu" title ="电线杆倒塌3" vidopath ="Videos\gaokongzhuiwu.mp4" coverpath ="CoverPicotures\电线杆倒塌1.png"></movie>
+  <movie name="bianposhigu" title ="电线杆倒塌1" vidopath ="Videos\gaolouzhuiluo.mp4" coverpath ="CoverPicotures\电线杆倒塌1.png"></movie>
+  <movie name="bianposhigu" title ="电线杆倒塌2" vidopath ="Videos\jiaoshoujiachaozai.mp4" coverpath ="CoverPicotures\电线杆倒塌1.png"></movie>
+  <movie name="bianposhigu" title ="电线杆倒塌3" vidopath ="Videos\tadiaoqingdao.mp4" coverpath ="CoverPicotures\电线杆倒塌1.png"></movie>
+  <movie name="bianposhigu" title ="电线杆倒塌1" vidopath ="Videos\bianpo.mp4" coverpath ="CoverPicotures\电线杆倒塌1.png"></movie>
+  
+</movies>

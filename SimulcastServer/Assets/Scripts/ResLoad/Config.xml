@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<movies>
+  <movie name ="1" vidopath ="111111" coverpath ="222222"></movie>
+  <movie name ="2" vidopath ="111111" coverpath ="222222"></movie>
+  <movie name ="3" vidopath ="111111" coverpath ="222222"></movie>
+  
+</movies>
